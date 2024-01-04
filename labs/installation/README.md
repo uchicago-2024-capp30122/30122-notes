@@ -18,11 +18,15 @@ If you do not use Homebrew, you can install pipx with `python3 -m pip install --
 
 Before doing this, be sure `python3` is referring to the correct Python installation.
 
+Verify installation by running `pipx ensurepath` and following instructions.
+
 ### Installing poetry on MacOS
 
 The recommended way to install poetry is with pipx: `pipx install poetry`.
 
 If you are using homebrew, you can also install poetry with `brew install poetry`.
+
+Verify installation by running `poetry --version` in a new terminal.
 
 ### Adding to your PATH on MacOS
 
@@ -53,9 +57,13 @@ If you are using the default Python installation, you can install pipx with `pyt
 
 Before doing this, be sure `python3` is referring to the correct Python installation.
 
+Verify installation by running `pipx ensurepath` and following instructions.
+
 ### Installing poetry on Windows
 
 The recommended way to install poetry is with pipx: `pipx install poetry`.
+
+Verify installation by running `poetry --version` in a new terminal.
 
 ## Advanced (Using pyenv to manage Python versions)
 
