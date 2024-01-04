@@ -1,9 +1,8 @@
 # 30122 Course Notes
 
 - examples/ - interactive examples
-- slides/ - slides
+- notes/ - notes
 - lab/ - notebooks for further exploration
-- notebooks/ - jupyter notebooks
 
 Notes will be added regularly, numbered in approximate order of appearance in class.
 
