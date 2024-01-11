@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "notes"
+version = "0.1.0"
+description = ""
+authors = ["James Turk <dev@jamesturk.net>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyterlab = "^4.0.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
