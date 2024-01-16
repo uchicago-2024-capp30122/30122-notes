@@ -1,0 +1,41 @@
+[
+ {
+  "id": 123,
+  "coordinates": [
+   44.21191,
+   -87.58239
+  ],
+  "altitude": 14.9,
+  "movement": {
+   "heading": 27.5,
+   "velocity": 16
+  },
+  "active": true
+ },
+ {
+  "id": 555,
+  "coordinates": [
+   0,
+   0
+  ],
+  "altitude": 100,
+  "movement": {
+   "heading": 90,
+   "velocity": 100
+  },
+  "active": true
+ },
+ {
+  "id": 555,
+  "coordinates": [
+   35.88,
+   76.52
+  ],
+  "altitude": 5000,
+  "movement": {
+   "heading": 0,
+   "velocity": 0
+  },
+  "active": false
+ }
+]
