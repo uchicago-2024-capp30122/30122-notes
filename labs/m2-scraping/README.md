@@ -6,7 +6,7 @@ In this lab, you will be working to extract information from real HTML pages.
 
 ## Instructions
 
-1. From within the `m2` directory, run `poetry install` to install the dependencies.
+1. From within the `m2-scraping` directory (that has this file in it), run `poetry install` to install the dependencies.
 2. You can run individual files with `poetry run python m2lab/<filename>.py` or `poetry run python -m m2lab.filename`.
 
 ## Problem 1 - FEC Filings
