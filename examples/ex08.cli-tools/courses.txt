@@ -1,0 +1,29 @@
+MPCS 55001-1 	Algorithms 	Geraldine Brady 	Ryerson 251 	Tuesday 5:30pm - 8:30pm
+MPCS 55001-2 	Algorithms 	Ishan Agarwal 	Ryerson 251 	Thursday 5:30pm - 8:30pm
+MPCS 53120-1 	Applied Data Analysis 	Davender Singh Sahota 	Ryerson 255 	Monday 5:30pm - 8:30pm
+MPCS 51044-1 	C/C++ for Advanced Programmers 	Michael Spertus 	Crerar 390 	Thursday 5:30pm - 8:30pm
+MPCS 51083-1 	Cloud Computing 	Vasilios Vasiliadis 	Crerar 011 	Thursday 6pm - 8pm
+MPCS 51083-2 	Cloud Computing 	Lionel Barrow 	Ryerson 276 	Tuesday 5:30pm - 8:30pm
+MPCS 51300-1 	Compilers 	Lamont Kenneth Samuels 	Crerar 011 	Wednesday 10:30am - 12:20pm
+MPCS 52040-1 	Distributed Systems 	Kyle Chard 	Crerar 011 	Friday 2:30pm - 5:20pm
+MPCS 51250-1 	Entrepreneurship in Technology 	Dylan Hall 	Crerar 298 	Wednesday 5:30pm - 8:30pm
+MPCS 53110-1 	Foundations of Computational Data Analysis 	Amitabh Chaudhary 	Ryerson 251 	Wednesday 5:30pm - 8:30pm
+MPCS 57200-1 	Generative AI 	Michael Spertus 	JCL 011 	Wednesday 5:30pm - 8:30pm
+MPCS 51087-1 	High Performance Computing 	Andrew Siegel 	Crerar 011 	Monday 5:30pm - 7:30pm
+MPCS 51260-1 	Human-Computer Interaction 	Katie Wozniak 	Crerar 011 	Friday 5:30pm - 7:30pm
+MPCS 56511-1 	Introduction to Computer Security 	Shelley Rossell 	Online Only 	Tuesday 5:15pm - 7:45pm
+MPCS 52011-1 	Introduction to Computer Systems 	Marty Billingsley 	Crerar 011 	Tuesday 5:30pm - 8:30pm
+MPCS 52011-2 	Introduction to Computer Systems 	Marty Billingsley 	Crerar 298 	Thursday 5:30pm - 8:30pm
+MPCS 51200-1 	Introduction to Software Engineering 	Rafi Almhana 	Ryerson 255 	Friday 2:30pm - 5:20pm
+MPCS 51200-2 	Introduction to Software Engineering 	Peter Vassilatos 	Ryerson 277 	Monday 6pm - 8:30pm
+MPCS 51082-1 	Introduction to Unix Systems 	Lamont Kenneth Samuels 	Crerar 011 	Monday 10:30am - 12:20pm
+MPCS 51030-1 	iOS Application Development 	Thomas Binkowski 	Crerar 298 	Monday 5:30pm - 7pm
+MPCS 51030-2 	iOS Application Development 	Thomas Binkowski 	Online Only 	Wednesday 10am - 11:30am
+MPCS 50103-1 	Mathematics for Computer Science: Discrete Mathematics 	Geraldine Brady 	Eckhart 312 	Thursday 5:30pm - 8:30pm
+MPCS 50103-2 	Mathematics for Computer Science: Discrete Mathematics 	Ishan Agarwal 	Ryerson 277 	Wednesday 5:30pm - 8:30pm
+MPCS 51410-1 	Object Oriented Programming 	Mark Shacklette 	Online Only 	Monday 4:10pm - 6pm
+MPCS 52060-1 	Parallel Programming 	Jan Hückelheim 	Crerar 011 	Monday 2:30pm - 5:20pm
+MPCS 51240-1 	Product Management 	Rafi Almhana 	Crerar 346 	Thursday 5:30pm - 8:30pm
+MPCS 51042-1 	Python Programming 	Chelsea Troy 	Online Only 	Wednesday 3pm - 6pm
+MPCS 51230-1 	User Interface and User Experience Design 	Andre Marques 	Crerar 298 	Tuesday 5:30pm - 8:30pm
+MPCS 52553-1 	Web Development 	Trevor Austin 	Ryerson 251 	Friday 5:30pm - 8:30pm

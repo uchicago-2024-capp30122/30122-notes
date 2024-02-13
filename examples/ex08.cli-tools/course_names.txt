@@ -1,0 +1,20 @@
+Algorithms 
+Applied Data Analysis 
+C++ for Advanced Programmers 
+Cloud Computing 
+Compilers 
+Entrepreneurship in Technology 
+Foundations of Computational Data Analysis 
+High Performance Computing 
+Introduction to Computer Security 
+Introduction to Computer Systems 
+Introduction to Software Engineering 
+Introduction to Unix Systems 
+Mathematics for Computer Science: Discrete Mathematics 
+Object Oriented Programming 
+Parallel Programming 
+Product Management 
+Python Programming 
+User Interface and User Experience Design 
+Web Development 
+iOS Application Development 
