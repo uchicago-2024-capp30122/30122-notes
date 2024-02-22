@@ -1,0 +1,11 @@
+total 64
+-rw-r--r--  1 jamesturk  staff     0 Feb 12 00:31 README.md
+-rw-r--r--  1 jamesturk  staff   376 Feb 13 12:11 course-ideas.txt
+-rw-r--r--  1 jamesturk  staff   570 Dec 13 22:50 course_names.txt
+-rwxr-xr-x  1 jamesturk  staff    95 Dec 13 22:50 courses.sh
+-rw-r--r--  1 jamesturk  staff  2767 Feb 13 16:25 courses.txt
+-rw-r--r--  1 jamesturk  staff     0 Feb 13 16:41 file.txt
+-rw-r--r--  1 jamesturk  staff    32 Dec 13 22:50 numbers.txt
+-rw-r--r--  1 jamesturk  staff   100 Feb 13 12:17 search-courses.sh
+-rwxr-xr-x  1 jamesturk  staff   376 Dec 13 22:50 spongebob.py
+-rwxr-xr-x  1 jamesturk  staff    86 Feb 12 00:35 three-times.rb

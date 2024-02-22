@@ -1,0 +1,4 @@
+MPCS 56511-1 	Introduction to Computer Security 	Shelley Rossell 	Online Only 	Tuesday 5:15pm - 7:45pm
+MPCS 51030-2 	iOS Application Development 	Thomas Binkowski 	Online Only 	Wednesday 10am - 11:30am
+MPCS 51410-1 	Object Oriented Programming 	Mark Shacklette 	Online Only 	Monday 4:10pm - 6pm
+MPCS 51042-1 	Python Programming 	Chelsea Troy 	Online Only 	Wednesday 3pm - 6pm
