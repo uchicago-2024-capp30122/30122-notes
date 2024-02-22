@@ -15,5 +15,6 @@ def alt_case(text):
 
 if __name__ == "__main__":
     # stdin is a file-like object that we can read from
+    print("an error occurred", file=sys.stderr)
     for line in sys.stdin:
         print(alt_case(line))

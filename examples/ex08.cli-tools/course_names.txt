@@ -1,11 +1,14 @@
 Algorithms 
 Applied Data Analysis 
-C++ for Advanced Programmers 
+C/C++ for Advanced Programmers 
 Cloud Computing 
 Compilers 
+Distributed Systems 
 Entrepreneurship in Technology 
 Foundations of Computational Data Analysis 
+Generative AI 
 High Performance Computing 
+Human-Computer Interaction 
 Introduction to Computer Security 
 Introduction to Computer Systems 
 Introduction to Software Engineering 
